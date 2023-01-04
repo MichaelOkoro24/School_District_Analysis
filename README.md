@@ -1,7 +1,7 @@
 # School_District_Analysis
 ## Overview of the school district analysis
 The purpose of this analysis is to help Maria the chief data scientist for a city school district with analyzing information on student funding and students standardized test scores. This analysis will assist the school board in making decisions reguarding the school budgets and priorities.
-##Results
+## Results
 How is the district summary affected?
 
 ![Screen Shot 2022-06-30 at 12 11 36 PM](https://user-images.githubusercontent.com/106411743/176726553-da021b68-8aa9-4242-ac67-03351a367a35.png)
