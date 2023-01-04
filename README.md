@@ -16,15 +16,16 @@ nce relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
 ![Screen Shot 2022-06-30 at 12 23 05 PM](https://user-images.githubusercontent.com/106411743/176728591-bc20abc0-2c08-4cff-ae2a-c7df251da9c7.png)
 
-Math and reading scores by grade
+Math and reading scores by grade:
 By taking out the 9th graders their math and reading scores increased.
 
-Scores by school size
+Scores by school size:
 ![Screen Shot 2022-06-30 at 12 41 13 PM](https://user-images.githubusercontent.com/106411743/176732169-2a7a9eb0-c704-46ba-8f85-5c65c1b57eaa.png)
 The scores by school size didn't change.
 
-Scores by school type
+Scores by school type:
 ![Screen Shot 2022-06-30 at 12 43 05 PM](https://user-images.githubusercontent.com/106411743/176732417-f940e30c-f378-4cb5-a82c-a40314df993c.png)
 The scores by school type didn't change.
-##Summary
+
+## Summary
 Four changes that occured due to the 9th graders at Thomas highschool being replaced with NaN's is a change in the percentage of the reading and math scores, and a change in the total number of students and overall passing percentage.
